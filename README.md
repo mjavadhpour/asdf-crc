@@ -12,7 +12,7 @@ View the [CodeReady Docs](https://code-ready.github.io/crc/) Github Pages for in
 ## Install
 
 ```bash
-asdf plugin add crc https://github.com/sqtran/asdf-crc.git
+asdf plugin add crc https://github.com/mjavadhpour/asdf-crc.git
 asdf install crc latest
 ```
 
